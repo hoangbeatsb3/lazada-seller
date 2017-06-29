@@ -1,0 +1,13 @@
+.page-header.navbar .page-logo .logo-default {
+	margin-top:24px;
+}
+.tabbable-custom > .nav-tabs > li.active {
+	border-top-color: #5b9bd1;
+}
+.has-error {
+	border:1px solid #FF0000;
+}
+
+.error {
+	color: #F44336;	
+}
